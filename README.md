@@ -70,8 +70,8 @@ if (msg != null) {
 First, set up your Upstash Redis credentials:
 
 ```bash
-export UPSTASH_REDIS_REST_URL="https://your-database.upstash.io"
-export UPSTASH_REDIS_REST_TOKEN="your-token-here"
+export UPSTASH_REDIS_REST_URL="https://trusty-hyena-14393.upstash.io"
+export UPSTASH_REDIS_REST_TOKEN="ATg5AAIjcDE2OTZkNzQ0MjExYjY0MDg2Yjc3YTNlMjdiNzQ5YjRlNHAxMA"
 ```
 
 Then use the queue:
